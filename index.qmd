@@ -3,10 +3,24 @@ title: "Welcome"
 format: html
 ---
 
+```{r}
+#| include: false
+#| echo: false
+
+# Para conseguir que salgan los iconos en documentos Rmarkdown
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
 ::: {.text-center}
-![Profile Picture](profile.jpg){width=150px style="border-radius: 50%; margin-bottom: 1rem;"}
+![Profile Picture](profile.jpg){width=180px style="border-radius: 50%; margin-bottom: 1rem;"}
 
-# Hi, I'm Santiago
+# **Santiago Mota**
 
-I'm a physicist and data scientist interested in satellite data, geospatial analytics, radio signal processing, and open-source development. This site showcases my projects, blog posts, and research interests.
+### *Physicist & Data Scientist*
+
+Building bridges between science, data, and open technology.
+
+[About Me](about.qmd){.btn .btn-primary style="margin: 0.5rem;"}
+[View CV (ES)](CV_Santiago_Mota_Herce_ES_Europass){.btn .btn-outline-secondary style="margin: 0.5rem;"}
+[View CV (EN)](CV_Santiago_Mota_Herce_EN){.btn .btn-outline-secondary style="margin: 0.5rem;"}
 :::

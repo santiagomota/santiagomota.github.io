@@ -1,5 +1,8 @@
 body {
   font-family: 'Helvetica Neue', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #333;
 }
 h1, h2, h3 {
   font-weight: 600;
@@ -12,4 +15,12 @@ h1, h2, h3 {
   text-align: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+.btn {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
 }

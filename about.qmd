@@ -1,7 +1,18 @@
 ---
 title: "About"
 format: html
+theme:
+    light: cosmo
+    dark: solar
 ---
+
+```{r}
+#| include: false
+#| echo: false
+
+# Para conseguir que salgan los iconos en documentos Rmarkdown
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
 
 ## Background
 
@@ -14,7 +25,7 @@ I hold a degree in Physics and currently work in data science. My expertise incl
 - Scientific programming in R and Python
 - SDR and wireless signal analytics
 
-## Find me online
+## Connect
 
 - [GitHub](https://github.com/santiagomota)
 - [LinkedIn](https://www.linkedin.com/in/santiagomota/?locale=en_US)

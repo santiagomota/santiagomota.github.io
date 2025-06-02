@@ -23,8 +23,8 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: cosmo
     css: styles.css
     toc: true
     page-layout: full
-    include-after-body: profile.jpg
+    include-after-body: footer_V2.html

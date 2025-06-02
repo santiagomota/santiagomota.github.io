@@ -9,4 +9,3 @@ listing:
 ---
 
 Stay tuned for upcoming articles on geospatial analysis, SDR techniques, and data science tools in R and Python.
-
