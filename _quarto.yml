@@ -2,20 +2,29 @@ project:
   type: website
 
 website:
-  title: "santiagomota.github.io"
+  title: "Santiago Mota"
+  site-url: https://santiagomota.github.io
+  repo-url: https://github.com/santiagomota/santiagomota.github.io
   navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Blog"
+        href: blog.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/santiagomota
+      - icon: linkedin
+        href: https://www.linkedin.com/in/santiagomota/?locale=en_US
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: lux
     css: styles.css
-
-
-
+    toc: true
+    page-layout: full
+    include-after-body: profile.jpg

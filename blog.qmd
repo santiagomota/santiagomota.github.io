@@ -1,0 +1,12 @@
+---
+title: "Blog"
+format: html
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  title: "Latest Posts"
+---
+
+Stay tuned for upcoming articles on geospatial analysis, SDR techniques, and data science tools in R and Python.

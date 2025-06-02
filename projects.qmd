@@ -1,0 +1,15 @@
+---
+title: "Projects"
+format: html
+---
+
+## Featured Projects
+
+### DMR Signal Decoding
+Monitoring digital mobile radio (DMR) using RTL-SDR and Python. Real-time decoding and dashboard integration.
+
+### Building Footprint Visualization with DuckDB
+Efficient rendering and querying of 24M+ buildings using spatial DuckDB, `sf`, and `rgee` in R.
+
+### NOAA Satellite Image Automation
+Processing, decoding and overlaying weather satellite imagery on maps using bash and Python tools.

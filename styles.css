@@ -1,1 +1,15 @@
-/* css styles */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+}
+h1, h2, h3 {
+  font-weight: 600;
+  margin-top: 1rem;
+}
+.navbar {
+  font-size: 0.95rem;
+}
+.text-center {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

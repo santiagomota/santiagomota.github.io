@@ -1,14 +1,12 @@
 ---
-title: "santiagomota.github.io"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Welcome"
+format: html
 ---
 
+::: {.text-center}
+![Profile Picture](profile.jpg){width=150px style="border-radius: 50%; margin-bottom: 1rem;"}
 
+# Hi, I'm Santiago 👋
+
+I'm a physicist and data scientist interested in satellite data, geospatial analytics, radio signal processing, and open-source development. This site showcases my projects, blog posts, and research interests.
+:::
