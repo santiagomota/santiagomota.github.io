@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Monitoring digital mobile radio (DMR) using RTL-SDR and Python. Real-time decoding and dashboard integration.\n\n\n\nEfficient rendering and querying of 24M+ buildings using spatial DuckDB, sf, and rgee in R.\n\n\n\nProcessing, decoding and overlaying weather satellite imagery on maps using bash and Python tools."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Monitoring digital mobile radio (DMR) using RTL-SDR and Python. Real-time decoding and dashboard integration.\n\n\n\nEfficient rendering and querying of 24M+ buildings using spatial DuckDB, sf, and rgee in R.\n\n\n\nProcessing, decoding and overlaying weather satellite imagery on maps using bash and Python tools."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Stay tuned for upcoming articles on geospatial analysis, SDR techniques, and data science tools in R and Python.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I hold a degree in Physics and currently work in data science. My expertise includes geospatial analysis, satellite data processing, and digital radio signal decoding."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I hold a degree in Physics and currently work in data science. My expertise includes geospatial analysis, satellite data processing, and digital radio signal decoding."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nOpen data and open-source science\nEarth observation and remote sensing\nScientific programming in R and Python\nSDR and wireless signal analytics"
+  },
+  {
+    "objectID": "about.html#find-me-online",
+    "href": "about.html#find-me-online",
+    "title": "About",
+    "section": "Find me online",
+    "text": "Find me online\n\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Profile Picture\n\n\n\nHi, I’m Santiago\nI’m a physicist and data scientist interested in satellite data, geospatial analytics, radio signal processing, and open-source development. This site showcases my projects, blog posts, and research interests."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
