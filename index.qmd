@@ -21,6 +21,6 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 Building bridges between science, data, and open technology.
 
 [About Me](about.qmd){.btn .btn-primary style="margin: 0.5rem;"}
-[View CV (ES)](CV_Santiago_Mota_Herce_ES_Europass){.btn .btn-outline-secondary style="margin: 0.5rem;"}
-[View CV (EN)](CV_Santiago_Mota_Herce_EN){.btn .btn-outline-secondary style="margin: 0.5rem;"}
+[View CV (ES)](CV_Santiago_Mota_Herce_ES_Europass.pdf){.btn .btn-outline-secondary style="margin: 0.5rem;"}
+[View CV (EN)](CV_Santiago_Mota_Herce_EN.pdf){.btn .btn-outline-secondary style="margin: 0.5rem;"}
 :::
