@@ -1,6 +1,9 @@
 ---
 title: "Welcome"
 format: html
+theme:
+    light: cosmo
+    dark: solar
 ---
 
 ```{r}
