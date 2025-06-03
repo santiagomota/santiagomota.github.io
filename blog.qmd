@@ -1,11 +1,20 @@
 ---
 title: "Blog"
 format: html
+draft: true
 listing:
   contents: posts
   type: default
   sort: "date desc"
   categories: true
 ---
+
+```{r}
+#| include: false
+#| echo: false
+
+# Para conseguir que salgan los iconos en documentos Rmarkdown
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
 
 Stay tuned for upcoming articles on geospatial analysis, SDR techniques, and data science tools in R and Python.
