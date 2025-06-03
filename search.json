@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Monitoring digital mobile radio (DMR) using RTL-SDR and Python. Real-time decoding and dashboard integration.\n\n\n\nEfficient rendering and querying of 24M+ buildings using spatial DuckDB, sf, and rgee in R.\n\n\n\nProcessing, decoding and overlaying weather satellite imagery on maps using bash and Python tools."
+    "text": "Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.\nEste fichero es copia de uno alojado en Github, en este repositorio y que se actualiza periódicamente.\nSe ha incluido otra copia en Kaggle.\nY se aloja en las webs Github y Netlify.\n\n\n\nPresentación, código y ejemplos del Machine Learning Spain XXVII.\nEn la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.\n\n\n\nECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii\nSantiago Mota: santiago_mota@yahoo.es\nKaggle profile: https://www.kaggle.com/santiagomota\nThe Taxi Service Trajectory competition predicts the final destination of taxi trips."
   },
   {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
+    "objectID": "projects.html#github-projects",
+    "href": "projects.html#github-projects",
     "title": "Projects",
     "section": "",
-    "text": "Monitoring digital mobile radio (DMR) using RTL-SDR and Python. Real-time decoding and dashboard integration.\n\n\n\nEfficient rendering and querying of 24M+ buildings using spatial DuckDB, sf, and rgee in R.\n\n\n\nProcessing, decoding and overlaying weather satellite imagery on maps using bash and Python tools."
+    "text": "Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.\nEste fichero es copia de uno alojado en Github, en este repositorio y que se actualiza periódicamente.\nSe ha incluido otra copia en Kaggle.\nY se aloja en las webs Github y Netlify.\n\n\n\nPresentación, código y ejemplos del Machine Learning Spain XXVII.\nEn la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.\n\n\n\nECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii\nSantiago Mota: santiago_mota@yahoo.es\nKaggle profile: https://www.kaggle.com/santiagomota\nThe Taxi Service Trajectory competition predicts the final destination of taxi trips."
   },
   {
     "objectID": "posts/post-with-code/index.html",

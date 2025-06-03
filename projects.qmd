@@ -1,15 +1,46 @@
 ---
 title: "Projects"
 format: html
+theme:
+    light: cosmo
+    dark: solar
 ---
 
-## Featured Projects
+```{r}
+#| include: false
+#| echo: false
 
-### DMR Signal Decoding
-Monitoring digital mobile radio (DMR) using RTL-SDR and Python. Real-time decoding and dashboard integration.
+# Para conseguir que salgan los iconos en documentos Rmarkdown
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
 
-### Building Footprint Visualization with DuckDB
-Efficient rendering and querying of 24M+ buildings using spatial DuckDB, `sf`, and `rgee` in R.
+## Github Projects
 
-### NOAA Satellite Image Automation
-Processing, decoding and overlaying weather satellite imagery on maps using bash and Python tools.
+
+### [Open Data](https://github.com/santiagomota/Open_Data)
+
+Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.
+
+Este fichero es copia de uno alojado en Github, en este [repositorio](https://github.com/santiagomota/Open_Data) y que se actualiza periódicamente. 
+
+Se ha incluido otra copia en [Kaggle](https://www.kaggle.com/code/santiagomota/open-data-links/).
+
+Y se aloja en las webs [Github](https://santiagomota.github.io/Open_Data/) y [Netlify](https://open-data-pages.netlify.app/).
+
+
+### [Machine Learning Spain Presentation](https://github.com/santiagomota/Machine_Learning_Spain)
+
+Presentación, código y ejemplos del Machine Learning Spain XXVII.
+
+En la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.
+
+
+### [Kaggle Taxi contest](https://github.com/santiagomota/kaggle-taxi-II)
+
+ECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii
+
+Santiago Mota: santiago_mota@yahoo.es
+
+Kaggle profile: https://www.kaggle.com/santiagomota
+
+The Taxi Service Trajectory competition predicts the final destination of taxi trips.
