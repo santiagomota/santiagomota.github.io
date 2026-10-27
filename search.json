@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.\nEste fichero es copia de uno alojado en Github, en este repositorio y que se actualiza periódicamente.\nSe ha incluido otra copia en Kaggle.\nY se aloja en las webs Github y Netlify.\n\n\n\nPresentación, código y ejemplos del Machine Learning Spain XXVII.\nEn la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.\n\n\n\nThe Taxi Service Trajectory competition predicts the final destination of taxi trips.\nECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players Kaggle\nKaggle profile\n\n\n\nUn visor donde dos veces al día se actualiza un mapa con el riesgo de incendios en España y los incendios activos."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "santiagomota.github.io",
+    "objectID": "projects.html#github-projects",
+    "href": "projects.html#github-projects",
+    "title": "Projects",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "text": "Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.\nEste fichero es copia de uno alojado en Github, en este repositorio y que se actualiza periódicamente.\nSe ha incluido otra copia en Kaggle.\nY se aloja en las webs Github y Netlify.\n\n\n\nPresentación, código y ejemplos del Machine Learning Spain XXVII.\nEn la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.\n\n\n\nThe Taxi Service Trajectory competition predicts the final destination of taxi trips.\nECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players Kaggle\nKaggle profile\n\n\n\nUn visor donde dos veces al día se actualiza un mapa con el riesgo de incendios en España y los incendios activos."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +19,47 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I hold a degree in Physics and currently work in data science. My expertise includes geospatial analysis, satellite data processing, and digital radio signal decoding."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I hold a degree in Physics and currently work in data science. My expertise includes geospatial analysis, satellite data processing, and digital radio signal decoding."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nOpen data and open-source science\nEarth observation and remote sensing\nScientific programming in R and Python\nSDR and wireless signal analytics"
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About",
+    "section": "Connect",
+    "text": "Connect\n\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Profile Picture\n\n\n\nSantiago Mota\n\nPhysicist & Data Scientist\nBuilding bridges between science, data, and open technology.\nAbout Me View CV (ES) View CV (EN)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
