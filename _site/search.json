@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.\nEste fichero es copia de uno alojado en Github, en este repositorio y que se actualiza periódicamente.\nSe ha incluido otra copia en Kaggle.\nY se aloja en las webs Github y Netlify.\n\n\n\nPresentación, código y ejemplos del Machine Learning Spain XXVII.\nEn la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.\n\n\n\nThe Taxi Service Trajectory competition predicts the final destination of taxi trips.\nECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players Kaggle\nKaggle profile\n\n\n\nUn visor donde dos veces al día se actualiza un mapa con el riesgo de incendios en España y los incendios activos."
+    "text": "This page brings together a selection of my public projects. They range from practical data applications to technical presentations and curated resources. The emphasis is on open data, reproducibility and useful results."
   },
   {
     "objectID": "projects.html#github-projects",
@@ -61,5 +61,26 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured projects",
+    "text": "Featured projects\n\nWildfire monitoring in Spain\nVisor Fuego\nLive application · Source code\nAn interactive viewer of wildfire risk and active fires in Spain. The map is updated twice a day, bringing together information useful for monitoring changing fire conditions.\nFocus: geospatial visualization · environmental data · automated updates\n\n\nOpen data resources\nOpen Data\nBrowse the website · Alternative site · Kaggle notebook\nA curated collection of open-data resources, including datasets, books, blogs, links and reference material. The repository is updated periodically and is also available as a website and a Kaggle notebook.\nFocus: open data · documentation · knowledge sharing"
+  },
+  {
+    "objectID": "projects.html#machine-learning-and-competitions",
+    "href": "projects.html#machine-learning-and-competitions",
+    "title": "Projects",
+    "section": "Machine learning and competitions",
+    "text": "Machine learning and competitions\n\nTaxi trip time prediction — Kaggle\nECML/PKDD 2015 Taxi Trip Time Prediction (II)\nCompetition results · Kaggle profile\nA competition focused on predicting taxi trip times. 10th place among 369 teams and 456 participants in the 2015 competition.\nFocus: predictive modelling · mobility data · machine learning\n\n\nAutomated machine learning — Machine Learning Spain\nMachine Learning Spain XXVII\nPresentation, code and examples from a talk on automated machine learning, with particular attention to the H2O ecosystem.\nFocus: AutoML · model development · technical communication"
+  },
+  {
+    "objectID": "projects.html#explore-more",
+    "href": "projects.html#explore-more",
+    "title": "Projects",
+    "section": "Explore more",
+    "text": "Explore more\nThese are selected examples rather than a complete list. For other repositories, experiments and ongoing work, visit my GitHub profile. You can also find notebooks and competition work on Kaggle."
   }
 ]

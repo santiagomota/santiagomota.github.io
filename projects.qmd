@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+subtitle: "Open data, geospatial analytics, machine learning and reproducible research"
+description: "Selected projects by Santiago Mota, spanning open data, wildfire monitoring, machine learning and data science."
 format: html
 theme:
     light: cosmo
@@ -14,36 +16,49 @@ theme:
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-## Github Projects
+This page brings together a selection of my public projects. They range from practical data applications to technical presentations and curated resources. The emphasis is on **open data, reproducibility and useful results**.
 
+## Featured projects
 
-### [Open Data](https://github.com/santiagomota/Open_Data)
+### Wildfire monitoring in Spain
 
-Recopilación de información sobre Open Data. Links, libros, blogs y otra información interesante.
+**[Visor Fuego](https://github.com/santiagomota/visor-fuego)**  
+[Live application](https://santiagomota.github.io/visor-fuego/) · [Source code](https://github.com/santiagomota/visor-fuego)
 
-Este fichero es copia de uno alojado en Github, en este [repositorio](https://github.com/santiagomota/Open_Data) y que se actualiza periódicamente. 
+An interactive viewer of wildfire risk and active fires in Spain. The map is updated **twice a day**, bringing together information useful for monitoring changing fire conditions.
 
-Se ha incluido otra copia en [Kaggle](https://www.kaggle.com/code/santiagomota/open-data-links/).
+**Focus:** geospatial visualization · environmental data · automated updates
 
-Y se aloja en las webs [Github](https://santiagomota.github.io/Open_Data/) y [Netlify](https://open-data-pages.netlify.app/).
+### Open data resources
 
+**[Open Data](https://github.com/santiagomota/Open_Data)**  
+[Browse the website](https://santiagomota.github.io/Open_Data/) · [Alternative site](https://open-data-pages.netlify.app/) · [Kaggle notebook](https://www.kaggle.com/code/santiagomota/open-data-links/)
 
-### [Machine Learning Spain Presentation](https://github.com/santiagomota/Machine_Learning_Spain)
+A curated collection of open-data resources, including datasets, books, blogs, links and reference material. The repository is updated periodically and is also available as a website and a Kaggle notebook.
 
-Presentación, código y ejemplos del Machine Learning Spain XXVII.
+**Focus:** open data · documentation · knowledge sharing
 
-En la presentación se trató sobre Machine Learning automatizado, con especial cobertura de la oferta de H2O.
+## Machine learning and competitions
 
+### Taxi trip time prediction — Kaggle
 
-### [Kaggle Taxi contest](https://github.com/santiagomota/kaggle-taxi-II)
+**[ECML/PKDD 2015 Taxi Trip Time Prediction (II)](https://github.com/santiagomota/kaggle-taxi-II)**  
+[Competition results](https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii) · [Kaggle profile](https://www.kaggle.com/santiagomota)
 
-The Taxi Service Trajectory competition predicts the final destination of taxi trips.
+A competition focused on predicting taxi trip times. **10th place among 369 teams and 456 participants** in the 2015 competition.
 
-ECML/PKDD 15: Taxi Trip Time Prediction (II) Fri 24 Apr 2015 – Wed 1 Jul 2015 10th of 369 teams and 456 players [Kaggle](https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii)
+**Focus:** predictive modelling · mobility data · machine learning
 
-[Kaggle profile](https://www.kaggle.com/santiagomota)
+### Automated machine learning — Machine Learning Spain
 
+**[Machine Learning Spain XXVII](https://github.com/santiagomota/Machine_Learning_Spain)**
 
-### [Visor fuego](https://github.com/santiagomota/visor-fuego)
+Presentation, code and examples from a talk on **automated machine learning**, with particular attention to the H2O ecosystem.
 
-Un visor donde dos veces al día se actualiza un mapa con el riesgo de incendios en España y los incendios activos.
+**Focus:** AutoML · model development · technical communication
+
+---
+
+## Explore more
+
+These are selected examples rather than a complete list. For other repositories, experiments and ongoing work, visit my [GitHub profile](https://github.com/santiagomota). You can also find notebooks and competition work on [Kaggle](https://www.kaggle.com/santiagomota).
